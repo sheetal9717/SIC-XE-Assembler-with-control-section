@@ -1,4 +1,4 @@
-// SIC/XE Assembler with control section by Sheetal 
+// SIC/XE Assembler with control section by Sheetal and Alok S Jaiswal
 #include<iostream>
 #include<stdio.h>
 #include<map>
